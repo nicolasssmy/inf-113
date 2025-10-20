@@ -1,0 +1,44 @@
+.padre {
+    background-color: aqua;
+    padding: 5px;
+    margin: 5px;
+    height: 100vh;
+}
+
+.titulo {
+    background-color: bisque;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 15%;
+    padding-inline: 3rem;
+}
+
+.titulo ul {
+    display: flex;
+    gap: 4rem;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contenido {
+    background-color: bisque;
+    text-align: center;
+    margin: 5px;
+    height: 70%;
+}
+
+img {
+    height: 80%;
+}
+
+.pie {
+    background-color: bisque;
+    margin: 5px;
+    height: 10%;
+    text-align: center;
+}
